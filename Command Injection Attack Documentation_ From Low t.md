@@ -124,5 +124,5 @@ This approach provides a full walkthrough from initial exploitation on the lowes
 
 <div style="text-align: center">⁂</div>
 
-[^1]: Command-Injection.mp4
+[^1]: [Command-Injection.mp4](https://drive.google.com/file/d/1sqQgHsr8l3xfSNWZN9ITb50WJY3_h2GT/view?usp=sharing)
 
