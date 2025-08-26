@@ -97,18 +97,6 @@ to confirm remote command execution.
 
 ***
 
-## Video Demonstration Summary ("Command-Injection.mp4")
-
-- Duration: Approximately 32 minutes
-- Demonstrates each stage of command injection directly on DVWA
-- Shows low-level exploits working out-of-the-box with basic payloads
-- Progresses through medium-level where input sanitization starts challenging attackers
-- Features advanced evasion techniques used at high-security level for successful injection
-- Visual confirmation of results after each input submitted
-- Emphasizes the importance of understanding input filtering and escaping mechanisms
-
-***
-
 ## Considerations and Recommendations
 
 - Always perform command injection testing in a legal, controlled environment.
